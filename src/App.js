@@ -4,7 +4,7 @@ import Dashboard from './pages/Dashboard';
 
 const App = () => {
   return (
-    <Router basename="/renes-ai-testove">
+    <Router>
       <Routes>
         <Route path="/" element={<Dashboard />} />
       </Routes>

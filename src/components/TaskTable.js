@@ -358,7 +358,7 @@ useEffect(() => {
       <PiCursorLight className="mr-1 my-3" />
       <span>Gen Tasks</span>
     </th>
-    <th className="whitespace-nowrap">
+    <th className="whitespace-nowrap pl-100">
       Result Ads
     </th>
   </tr>
